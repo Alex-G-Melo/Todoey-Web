@@ -1,0 +1,22 @@
+{
+  "name": "todoey",
+  "version": "1.0.0",
+  "description": "ToDo List",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-G-Melo/Todoey-Web.git"
+  },
+  "keywords": [
+    "1015"
+  ],
+  "author": "Alex Melo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-G-Melo/Todoey-Web/issues"
+  },
+  "homepage": "https://github.com/Alex-G-Melo/Todoey-Web#readme"
+}
